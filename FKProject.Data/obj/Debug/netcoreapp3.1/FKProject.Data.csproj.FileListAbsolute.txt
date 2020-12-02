@@ -1,0 +1,15 @@
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Data.deps.json
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Data.runtimeconfig.json
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Data.runtimeconfig.dev.json
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Data.dll
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Data.pdb
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Core.dll
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\bin\Debug\netcoreapp3.1\FKProject.Core.pdb
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.csprojAssemblyReference.cache
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.AssemblyInfoInputs.cache
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.AssemblyInfo.cs
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.csproj.CopyComplete
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.dll
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.pdb
+C:\Users\Naime\Desktop\FKProject\FKProject.Data\obj\Debug\netcoreapp3.1\FKProject.Data.genruntimeconfig.cache

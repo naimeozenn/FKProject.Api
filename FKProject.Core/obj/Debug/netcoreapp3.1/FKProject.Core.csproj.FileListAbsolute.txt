@@ -1,0 +1,8 @@
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\bin\Debug\netcoreapp3.1\FKProject.Core.deps.json
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\bin\Debug\netcoreapp3.1\FKProject.Core.dll
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\bin\Debug\netcoreapp3.1\FKProject.Core.pdb
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\obj\Debug\netcoreapp3.1\FKProject.Core.AssemblyInfoInputs.cache
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\obj\Debug\netcoreapp3.1\FKProject.Core.AssemblyInfo.cs
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\obj\Debug\netcoreapp3.1\FKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\obj\Debug\netcoreapp3.1\FKProject.Core.dll
+C:\Users\Naime\Desktop\FKProject\FKProject.Core\obj\Debug\netcoreapp3.1\FKProject.Core.pdb
